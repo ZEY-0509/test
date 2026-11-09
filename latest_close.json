@@ -2,7 +2,7 @@
   "schema_version": 1,
   "report_type": "close",
   "trade_date": "2026-11-09",
-  "generated_at_beijing": "2026-11-09T15:10:05.621792+08:00",
+  "generated_at_beijing": "2026-11-09T15:27:05.792028+08:00",
   "instruments": [
     {
       "code": "510880",
@@ -13,7 +13,7 @@
       "volume_hands": 2783951.0,
       "turnover_cny": 945537571.0,
       "trade_date": "2026-11-09",
-      "market_time_beijing": "2026-11-09T15:10:08+08:00",
+      "market_time_beijing": "2026-11-09T15:27:05+08:00",
       "source": "东方财富",
       "data_type": "场内行情",
       "indicator": {
@@ -33,7 +33,7 @@
       "volume_hands": 20056448.0,
       "turnover_cny": 1770101919.0,
       "trade_date": "2026-11-09",
-      "market_time_beijing": "2026-11-09T15:10:14+08:00",
+      "market_time_beijing": "2026-11-09T15:27:17+08:00",
       "source": "东方财富",
       "data_type": "场内行情",
       "indicator": {
