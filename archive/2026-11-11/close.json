@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "report_type": "close",
+  "trade_date": "2026-11-11",
+  "generated_at_beijing": "2026-11-11T15:10:05.664656+08:00",
+  "instruments": [
+    {
+      "code": "510880",
+      "name": "红利ETF",
+      "price": 3.373,
+      "previous_close": 3.377,
+      "change_percent": -0.12,
+      "volume_hands": 1209818.0,
+      "turnover_cny": 409217380.0,
+      "trade_date": "2026-11-11",
+      "market_time_beijing": "2026-11-11T15:09:58+08:00",
+      "source": "东方财富",
+      "data_type": "场内行情",
+      "indicator": {
+        "name": "Wilder RSI(14)",
+        "value": 47.05720953249696,
+        "period": 14
+      },
+      "reliable": true,
+      "unreliable_reason": ""
+    },
+    {
+      "code": "512800",
+      "name": "银行ETF",
+      "price": 0.882,
+      "previous_close": 0.889,
+      "change_percent": -0.79,
+      "volume_hands": 20878663.0,
+      "turnover_cny": 1852063682.0,
+      "trade_date": "2026-11-11",
+      "market_time_beijing": "2026-11-11T15:10:09+08:00",
+      "source": "东方财富",
+      "data_type": "场内行情",
+      "indicator": {
+        "name": "BOLL(20,2)",
+        "value": 0.8739500000000003,
+        "middle": 0.8739500000000003,
+        "upper": 0.8958906016325902,
+        "lower": 0.8520093983674105,
+        "stddev": "population"
+      },
+      "reliable": true,
+      "unreliable_reason": ""
+    }
+  ]
+}
